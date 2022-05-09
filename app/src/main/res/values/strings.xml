@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppRevisao</string>
+    <string name="title">Digite os valores para ser comparado</string>
+    <string name="send">Enviar</string>
+    <string name="num1">Valor 1</string>
+    <string name="num2">Valor 2</string>
+</resources>
